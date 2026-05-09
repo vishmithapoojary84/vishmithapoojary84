@@ -1,16 +1,224 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vishmithapoojary84/vishmithapoojary84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7F00FF,100:FF00C8&height=300&section=header&text=VISHMITHA%20POOJARY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descAlign=50"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Full+Stack+Developer;Learning+Agentic+AI;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Systems" />
+
+</div>
+
+---
+
+# 🤖 SYSTEM INITIALIZATION
+
+```ts
+> BOOT SEQUENCE INITIATED...
+> USER: VISHMITHA
+> ACCESS LEVEL: FULL STACK ENGINEER
+
+const Developer = {
+    Education: "MCA Student",
+    
+    Domains: [
+        "Full Stack Web Development",
+        "Backend Systems",
+        "AI Applications",
+        "Workflow Automation",
+        "REST API Development"
+    ],
+
+    TechStack: [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Hono.js",
+        "Bun",
+        "PostgreSQL",
+        "MongoDB"
+    ],
+
+    CurrentFocus: [
+        "Agentic AI",
+        "System Design",
+        "Scalable APIs",
+        "Modern Backend Architecture"
+    ],
+
+    Status: "Building Real World Projects 🚀"
+};
+```
+
+---
+
+# 👩‍💻 ABOUT ME
+
+- 🎓 MCA Student at St Aloysius Institute of Management
+- 💻 Backend-focused Full Stack Developer
+- 🚀 Currently exploring AI-powered systems and Agentic AI
+- 🔧 Experienced with scalable APIs, validation systems, and workflow management
+- ⚡ Interested in modern backend technologies and production-grade architectures
+- 🌱 Always learning and building
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+<a href="mailto:vishuvishmitha84@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishmitha-poojary-39122a320">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vishmithapoojary84">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ TECH MATRIX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,cpp,postgres,mongodb,html,css,tailwind,git,github,docker,postman,linux&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+## 🏥 Hospital Laundry Management System
+> React • Hono.js • Bun • PostgreSQL
+
+- Automated linen tracking and workflow management
+- Request lifecycle handling system
+- Backend API integration with PostgreSQL
+- Built scalable backend architecture
+
+---
+
+## 🤖 Interview AI Agent
+> Next.js • MongoDB
+
+- AI-powered interview assistant
+- Dynamic interview workflow system
+- Interactive recruiter-like experience
+
+---
+
+## 🔗 URL Shortener
+> MERN Stack
+
+- URL shortening service
+- Routing and analytics tracking
+- Authentication and backend integration
+
+---
+
+## 🏋️ Gym Management System
+> PHP • MySQL
+
+- Member management automation
+- Payment workflow handling
+
+---
+
+## 🛒 Market Website
+> Flask • SQL
+
+- Marketplace platform
+- CRUD operations and authentication
+
+---
+
+# 📊 LANGUAGE DISTRIBUTION
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmithapoojary84&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="280"/>
+
+</div>
+
+---
+
+# 📈 GITHUB METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishmithapoojary84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00C8&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishmithapoojary84&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF" height="180"/>
+
+</div>
+
+---
+
+# 📊 ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmithapoojary84&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&line=00F5FF&point=FF00C8"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vishmithapoojary84/vishmithapoojary84/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🧠 CURRENT FOCUS
+
+- Agentic AI
+- Scalable Backend Systems
+- AI Integration
+- Production Grade APIs
+- Workflow-based System Design
+- Modern Web Architecture
+
+---
+
+# 🏆 EXPERIENCE
+
+### 💼 Software Developer Intern — TechBrew Solutions
+> Jan 2026 – Present
+
+- Developed scalable backend APIs using Hono.js and Bun
+- Worked on hospital laundry management workflows
+- Implemented validations and request lifecycle systems
+- Collaborated using Git/GitHub
+- Contributed to frontend integration using React
+
+---
+
+# 📜 CERTIFICATIONS
+
+- Deep Learning Fundamentals
+- Data Privacy Fundamentals
+- Fundamentals of Encryption – Quantum-Safe Techniques
+- Web Hosting Certification
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,100:00F5FF&height=120&section=footer"/>
+
+</div>
