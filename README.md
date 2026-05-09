@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7F00FF,100:FF00C8&height=300&section=header&text=VISHMITHA%20POOJARY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:7F00FF,70:FF00C8,100:00F5FF&height=300&section=header&text=VISHMITHA%20POOJARY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Learner&descAlignY=58&descAlign=50"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Full+Stack+Developer;Learning+Agentic+AI;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Full+Stack+Developer;Learning+Agentic+AI;React+%7C+Node.js+%7C+PostgreSQL;Always+Building+Something+New" />
 
 </div>
 
@@ -18,12 +18,12 @@
 
 ```ts
 > BOOT SEQUENCE INITIATED...
-> USER: VISHMITHA
+> USER: VISHMITHA POOJARY
 > ACCESS LEVEL: FULL STACK ENGINEER
 
 const Developer = {
     Education: "MCA Student",
-    
+
     Domains: [
         "Full Stack Web Development",
         "Backend Systems",
@@ -44,9 +44,9 @@ const Developer = {
 
     CurrentFocus: [
         "Agentic AI",
-        "System Design",
         "Scalable APIs",
-        "Modern Backend Architecture"
+        "Modern Backend Architecture",
+        "System Design"
     ],
 
     Status: "Building Real World Projects 🚀"
@@ -59,9 +59,9 @@ const Developer = {
 
 - 🎓 MCA Student at St Aloysius Institute of Management
 - 💻 Backend-focused Full Stack Developer
-- 🚀 Currently exploring AI-powered systems and Agentic AI
-- 🔧 Experienced with scalable APIs, validation systems, and workflow management
-- ⚡ Interested in modern backend technologies and production-grade architectures
+- 🚀 Exploring AI-powered systems and Agentic AI
+- 🔧 Experienced in scalable APIs, validations, and workflow-based systems
+- ⚡ Interested in modern backend technologies and production-grade architecture
 - 🌱 Always learning and building
 
 ---
@@ -112,8 +112,8 @@ const Developer = {
 > Next.js • MongoDB
 
 - AI-powered interview assistant
-- Dynamic interview workflow system
-- Interactive recruiter-like experience
+- Dynamic recruiter-like interview workflow
+- Interactive interview experience
 
 ---
 
@@ -122,7 +122,7 @@ const Developer = {
 
 - URL shortening service
 - Routing and analytics tracking
-- Authentication and backend integration
+- Backend authentication integration
 
 ---
 
@@ -138,7 +138,7 @@ const Developer = {
 > Flask • SQL
 
 - Marketplace platform
-- CRUD operations and authentication
+- CRUD operations and authentication system
 
 ---
 
@@ -189,22 +189,22 @@ const Developer = {
 - Agentic AI
 - Scalable Backend Systems
 - AI Integration
+- Workflow-based Architectures
 - Production Grade APIs
-- Workflow-based System Design
-- Modern Web Architecture
+- System Design
 
 ---
 
-# 🏆 EXPERIENCE
+# 💼 EXPERIENCE
 
-### 💼 Software Developer Intern — TechBrew Solutions
+## Software Developer Intern — TechBrew Solutions
 > Jan 2026 – Present
 
 - Developed scalable backend APIs using Hono.js and Bun
-- Worked on hospital laundry management workflows
-- Implemented validations and request lifecycle systems
+- Worked on hospital laundry workflow systems
+- Implemented validation layers and request lifecycle handling
 - Collaborated using Git/GitHub
-- Contributed to frontend integration using React
+- Contributed to React frontend integration
 
 ---
 
