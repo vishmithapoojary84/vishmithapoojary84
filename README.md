@@ -1,6 +1,7 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:7F00FF,70:FF00C8,100:00F5FF&height=300&section=header&text=VISHMITHA%20POOJARY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Learner&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:7F00FF,70:FF00C8,100:00F5FF&height=300&section=header&text=VISHMITHA%20POOJARY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descAlign=50"/>
 
 </div>
 
@@ -8,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Full+Stack+Developer;Learning+Agentic+AI;React+%7C+Node.js+%7C+PostgreSQL;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Backend+Focused+Full+Stack+Developer;Building+Agentic+AI+Systems;FastAPI+%7C+Hono.js+%7C+PostgreSQL;Always+Building+Something+New" />
 
 </div>
 
@@ -19,50 +20,54 @@
 ```ts
 > BOOT SEQUENCE INITIATED...
 > USER: VISHMITHA POOJARY
-> ACCESS LEVEL: FULL STACK ENGINEER
+> ACCESS LEVEL: BACKEND ENGINEER
 
 const Developer = {
-    Education: "MCA Student",
+    Education: "MCA Graduate",
 
     Domains: [
+        "Backend Engineering",
         "Full Stack Web Development",
-        "Backend Systems",
         "AI Applications",
         "Workflow Automation",
-        "REST API Development"
+        "REST API Development",
+        "Multi-Agent Systems"
     ],
 
     TechStack: [
+        "FastAPI",
+        "Hono.js",
+        "Node.js",
         "React",
         "Next.js",
-        "Node.js",
-        "Hono.js",
-        "Bun",
         "PostgreSQL",
-        "MongoDB"
+        "MongoDB",
+        "Docker",
+        "LangGraph"
     ],
 
     CurrentFocus: [
-        "Agentic AI",
-        "Scalable APIs",
-        "Modern Backend Architecture",
+        "Agentic AI Systems",
+        "Multi-Agent Workflows",
+        "Scalable Backend APIs",
+        "LLM Integrations",
         "System Design"
     ],
 
-    Status: "Building Real World Projects 🚀"
+    Status: "Building Real World AI Systems 🚀"
 };
-```
+````
 
 ---
 
 # 👩‍💻 ABOUT ME
 
-- 🎓 MCA Student at St Aloysius Institute of Management
-- 💻 Backend-focused Full Stack Developer
-- 🚀 Exploring AI-powered systems and Agentic AI
-- 🔧 Experienced in scalable APIs, validations, and workflow-based systems
-- ⚡ Interested in modern backend technologies and production-grade architecture
-- 🌱 Always learning and building
+* 🎓 MCA Graduate
+* 💻 Backend-focused Full Stack Developer
+* 🤖 Building AI-powered systems and Agentic AI workflows
+* ⚙️ Experienced in scalable APIs, validations, and workflow orchestration
+* 🧠 Interested in production-grade backend architecture and multi-agent systems
+* 🚀 Currently building real-world AI applications
 
 ---
 
@@ -90,55 +95,98 @@ const Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,cpp,postgres,mongodb,html,css,tailwind,git,github,docker,postman,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,fastapi,postgres,mongodb,mysql,docker,git,github,tailwind,linux,postman&theme=dark" />
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🧩 BACKEND SPECIALIZATION
 
-## 🏥 Hospital Laundry Management System
-> React • Hono.js • Bun • PostgreSQL
+```yaml
+Backend:
+  - FastAPI
+  - Hono.js
+  - Node.js
+  - Express.js
 
-- Automated linen tracking and workflow management
-- Request lifecycle handling system
-- Backend API integration with PostgreSQL
-- Built scalable backend architecture
+Databases:
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+
+AI:
+  - LangGraph
+  - Gemini API
+  - OpenAI API
+  - Prompt Engineering
+
+Architecture:
+  - REST APIs
+  - JWT Authentication
+  - Workflow Systems
+  - Multi-Agent Orchestration
+```
 
 ---
 
-## 🤖 Interview AI Agent
-> Next.js • MongoDB
+# 🚀 FEATURED PROJECTS
 
-- AI-powered interview assistant
-- Dynamic recruiter-like interview workflow
-- Interactive interview experience
+## 🤖 AI Multi-Agent Intraday Trading System
+
+> Python • LangGraph • FastAPI • Gemini API • OpenAI API
+
+* Built a supervisor-worker multi-agent architecture
+* News analysis and technical analysis workflow
+* Generated structured trade setups using LLMs
+* Telegram and email alert pipeline integration
+* Modular and scalable agent orchestration design
+
+---
+
+## 🎤 AI Interview Platform Backend
+
+> FastAPI • PostgreSQL • SQLAlchemy • JWT
+
+* Built secured REST APIs for adaptive interview workflows
+* Resume PDF ingestion and skill extraction pipeline
+* LLM-driven interview question generation
+* Weak-skill tracking and leaderboard analytics
+* Dynamic role-based interview configuration system
+
+---
+
+## 🏥 Hospital Laundry Management System
+
+> React • Hono.js • Bun • PostgreSQL
+
+* Developed backend APIs for linen workflow automation
+* Request lifecycle and stock tracking system
+* PostgreSQL schema design and validations
+* Team-built production workflow system
+* Backend integration with operational dashboards
 
 ---
 
 ## 🔗 URL Shortener
+
 > MERN Stack
 
-- URL shortening service
-- Routing and analytics tracking
-- Backend authentication integration
-
----
-
-## 🏋️ Gym Management System
-> PHP • MySQL
-
-- Member management automation
-- Payment workflow handling
+* Custom slug-based URL shortening service
+* Analytics tracking and REST API integration
+* Authentication-enabled backend system
+* End-to-end deployment workflow
 
 ---
 
 ## 🛒 Market Website
+
 > Flask • SQL
 
-- Marketplace platform
-- CRUD operations and authentication system
+* Marketplace platform with authentication system
+* CRUD operations and product management
+* Backend database integration
+* User workflow handling system
 
 ---
 
@@ -186,34 +234,49 @@ const Developer = {
 
 # 🧠 CURRENT FOCUS
 
-- Agentic AI
-- Scalable Backend Systems
-- AI Integration
-- Workflow-based Architectures
-- Production Grade APIs
-- System Design
+* Agentic AI Systems
+* Multi-Agent Orchestration
+* Backend Architecture
+* Scalable REST APIs
+* LLM Workflows
+* System Design
 
 ---
 
 # 💼 EXPERIENCE
 
 ## Software Developer Intern — TechBrew Solutions
+
 > Jan 2026 – Present
 
-- Developed scalable backend APIs using Hono.js and Bun
-- Worked on hospital laundry workflow systems
-- Implemented validation layers and request lifecycle handling
-- Collaborated using Git/GitHub
-- Contributed to React frontend integration
+* Translated OpenAPI contracts into production-ready APIs
+* Worked with Hono.js, Drizzle ORM, Zod, PostgreSQL, and Docker
+* Built validation layers and handled complex workflow logic
+* Contributed to a LangGraph multi-agent trading system
+* Integrated frontend components with backend APIs
+* Collaborated using GitHub pull request workflows
 
 ---
 
 # 📜 CERTIFICATIONS
 
-- Deep Learning Fundamentals
-- Data Privacy Fundamentals
-- Fundamentals of Encryption – Quantum-Safe Techniques
-- Web Hosting Certification
+* Deep Learning Fundamentals
+* Data Privacy Fundamentals
+* Fundamentals of Encryption – Quantum-Safe Techniques
+* Web Hosting Certification
+
+---
+
+# 🌱 CURRENTLY LEARNING
+
+```yaml
+Learning:
+  - Agentic AI
+  - LangGraph
+  - Advanced Backend Architecture
+  - Scalable System Design
+  - AI Workflow Automation
+```
 
 ---
 
@@ -222,3 +285,4 @@ const Developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,100:00F5FF&height=120&section=footer"/>
 
 </div>
+```
