@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:7F00FF,70:FF00C8,100:00F5FF&height=300&section=header&text=VISHMITHA%20POOJARY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Learner&descAlignY=58&descAlign=50"/>
@@ -57,18 +57,18 @@ const Developer = {
 
     Status: "Building Real World AI Projects 🚀"
 };
-````
+```
 
 ---
 
 # 👩‍💻 ABOUT ME
 
-* 🎓 MCA Graduate
-* 💻 Backend-focused Full Stack Developer
-* 🚀 Exploring AI-powered systems and Agentic AI
-* 🔧 Experienced in scalable APIs, validations, and workflow-based systems
-* ⚡ Interested in production-grade backend technologies and multi-agent architectures
-* 🌱 Always learning and building
+- 🎓 MCA Graduate
+- 💻 Backend-focused Full Stack Developer
+- 🚀 Exploring AI-powered systems and Agentic AI
+- 🔧 Experienced in scalable APIs, validations, and workflow-based systems
+- ⚡ Interested in production-grade backend technologies and multi-agent architectures
+- 🌱 Always learning and building
 
 ---
 
@@ -105,54 +105,49 @@ const Developer = {
 # 🚀 FEATURED PROJECTS
 
 ## 🤖 AI Multi-Agent Intraday Trading System
-
 > Python • LangGraph • FastAPI • Gemini API • OpenAI API
 
-* Built a supervisor-worker multi-agent architecture
-* News analysis and technical analysis workflow
-* Generated structured trade setups using LLMs
-* Telegram and email alert pipeline integration
+- Built a supervisor-worker multi-agent architecture
+- News analysis and technical analysis workflow
+- Generated structured trade setups using LLMs
+- Telegram and email alert pipeline integration
 
 ---
 
 ## 🎤 AI Interview Platform Backend
-
 > FastAPI • PostgreSQL • SQLAlchemy • JWT
 
-* Built secured REST APIs for adaptive interview workflows
-* Resume PDF ingestion and skill extraction pipeline
-* LLM-driven interview question generation
-* Weak-skill tracking and leaderboard analytics
+- Built secured REST APIs for adaptive interview workflows
+- Resume PDF ingestion and skill extraction pipeline
+- LLM-driven interview question generation
+- Weak-skill tracking and leaderboard analytics
 
 ---
 
 ## 🏥 Hospital Laundry Management System
-
 > React • Hono.js • Bun • PostgreSQL
 
-* Automated linen tracking and workflow management
-* Request lifecycle handling system
-* Backend API integration with PostgreSQL
-* Built scalable backend architecture
+- Automated linen tracking and workflow management
+- Request lifecycle handling system
+- Backend API integration with PostgreSQL
+- Built scalable backend architecture
 
 ---
 
 ## 🔗 URL Shortener
-
 > MERN Stack
 
-* URL shortening service
-* Routing and analytics tracking
-* Backend authentication integration
+- URL shortening service
+- Routing and analytics tracking
+- Backend authentication integration
 
 ---
 
 ## 🛒 Market Website
-
 > Flask • SQL
 
-* Marketplace platform
-* CRUD operations and authentication system
+- Marketplace platform
+- CRUD operations and authentication system
 
 ---
 
@@ -229,36 +224,35 @@ Architecture:
 
 # 🧠 CURRENT FOCUS
 
-* Agentic AI Systems
-* Multi-Agent Orchestration
-* Backend Architecture
-* Scalable REST APIs
-* LLM Workflows
-* System Design
+- Agentic AI Systems
+- Multi-Agent Orchestration
+- Backend Architecture
+- Scalable REST APIs
+- LLM Workflows
+- System Design
 
 ---
 
 # 💼 EXPERIENCE
 
 ## Software Developer Intern — TechBrew Solutions
-
 > Jan 2026 – Present
 
-* Developed scalable backend APIs using Hono.js and Bun
-* Worked on hospital laundry workflow systems
-* Implemented validation layers and request lifecycle handling
-* Contributed to a LangGraph multi-agent trading system
-* Collaborated using Git/GitHub
-* Contributed to React frontend integration
+- Developed scalable backend APIs using Hono.js and Bun
+- Worked on hospital laundry workflow systems
+- Implemented validation layers and request lifecycle handling
+- Contributed to a LangGraph multi-agent trading system
+- Collaborated using Git/GitHub
+- Contributed to React frontend integration
 
 ---
 
 # 📜 CERTIFICATIONS
 
-* Deep Learning Fundamentals
-* Data Privacy Fundamentals
-* Fundamentals of Encryption – Quantum-Safe Techniques
-* Web Hosting Certification
+- Deep Learning Fundamentals
+- Data Privacy Fundamentals
+- Fundamentals of Encryption – Quantum-Safe Techniques
+- Web Hosting Certification
 
 ---
 
@@ -267,4 +261,4 @@ Architecture:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,100:00F5FF&height=120&section=footer"/>
 
 </div>
-```
+
