@@ -104,6 +104,29 @@ const Developer = {
 
 # 🚀 FEATURED PROJECTS
 
+## 💊 AI-First Pharma CRM Assistant
+> React.js • FastAPI • PostgreSQL • LangGraph • Gemini API • Redux Toolkit
+
+- Built an AI-powered CRM for pharmaceutical sales representatives
+- Converted natural language meeting notes into structured CRM records
+- Implemented intelligent HCP fuzzy matching with PostgreSQL
+- Automated extraction of meeting dates, attendees, discussion points, and summaries
+- Used LangGraph agent workflows with strict tool-calling to eliminate AI hallucinations
+- Enabled real-time React form auto-population before submission
+
+---
+
+## 🏥 AI Hospital Voice Receptionist
+> React • FastAPI • PostgreSQL • Gemini API • LiveKit • Deepgram • ElevenLabs
+
+- Developed a multilingual AI voice receptionist for healthcare facilities
+- Enabled appointment booking, rescheduling, and cancellation using voice
+- Integrated LiveKit for WebRTC real-time audio streaming
+- Used Deepgram for speech-to-text and ElevenLabs for text-to-speech
+- Built an agentic backend with Gemini to understand intents and perform database operations
+- Delivered a low-latency conversational experience in English and Hindi
+
+---
 ## 🤖 AI Multi-Agent Intraday Trading System
 > Python • LangGraph • FastAPI • Gemini API • OpenAI API
 
@@ -167,15 +190,19 @@ Databases:
 
 AI:
   - LangGraph
+  - LangChain
   - Gemini API
   - OpenAI API
   - Prompt Engineering
+  - Agentic AI
 
 Architecture:
   - REST APIs
   - JWT Authentication
   - Workflow Systems
   - Multi-Agent Orchestration
+  - Function Calling
+  - AI Automation
 ```
 
 ---
@@ -225,6 +252,8 @@ Architecture:
 # 🧠 CURRENT FOCUS
 
 - Agentic AI Systems
+- AI-Powered CRM Platforms
+- Voice AI Applications
 - Multi-Agent Orchestration
 - Backend Architecture
 - Scalable REST APIs
@@ -236,7 +265,7 @@ Architecture:
 # 💼 EXPERIENCE
 
 ## Software Developer Intern — TechBrew Solutions
-> Jan 2026 – Present
+> Jan 2026 – Jun 2026
 
 - Developed scalable backend APIs using Hono.js and Bun
 - Worked on hospital laundry workflow systems
