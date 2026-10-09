@@ -76,6 +76,10 @@ const Developer = {
 
 <div align="center">
 
+<a href="https://vishmitha-portfolio.onrender.com" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/> 
+</a>
+
 <a href="mailto:vishuvishmitha84@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
